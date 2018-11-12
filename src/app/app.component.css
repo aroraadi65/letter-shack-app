@@ -1,0 +1,22 @@
+.login-button {
+  align-self: center;
+  margin: 20px;
+  float: right;
+  padding: 10px 20px;
+  color: #666666;
+  font-size: x-large;
+  background: floralwhite;
+  border: 0 #222222;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.app-heading {
+  padding: 10px 20px;
+  display: inline-block;
+}
+
+.greet-msg {
+  float: right;
+  padding: 10px 20px;
+}

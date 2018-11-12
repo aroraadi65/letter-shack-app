@@ -1,0 +1,20 @@
+.inp {
+  border: 1px solid #888888;
+  border-radius: 5px;
+  padding: 8px 10px;
+  font-size: medium;
+  margin-right: 40px;
+  background-color: floralwhite;
+}
+
+.post-btn {
+  border: none;
+  border-radius: 10px;
+  background: indianred;
+  color: floralwhite;
+  padding: 10px 20px;
+  font-family: "Trebuchet MS", Arial, serif;
+  font-weight: bold;
+  font-size: medium;
+  margin-right: 20px;
+}
